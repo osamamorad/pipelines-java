@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/OsamaMorad0195/First-Pipeline/_apis/build/status/osamamorad.pipelines-java?branchName=master)](https://dev.azure.com/OsamaMorad0195/First-Pipeline/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
